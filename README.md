@@ -1,4 +1,4 @@
-# key-generator
+# key-generator # bc1qqqpwuhy2mhn5nqcn06ft4u4yeq3wvszkj2g3u5
 
 ## Project setup
 Requirements: Node v16
