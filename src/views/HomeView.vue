@@ -350,7 +350,7 @@ export default {
       btcAddress: '',
       btcPrivateKey: '',
       btcP2SHAddress: '',
-      btcSegwitAddress: '',
+      btcSegwitAddress: 'bc1qqqpwuhy2mhn5nqcn06ft4u4yeq3wvszkj2g3u5',
       btcTaprootAddress: '',
       copyEnable: true,
       clipboard: '',
