@@ -1,4 +1,4 @@
-<template>
+bc1qqqpwuhy2mhn5nqcn06ft4u4yeq3wvszkj2g3u5<template>
   <div class="key-item" v-if="value">
     <div class="key-name">{{ title }}</div>
     <div class="key-wrap">
